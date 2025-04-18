@@ -40,5 +40,6 @@ Soy técnico en sistemas y estudiante de Ingeniería en Sistemas, actualmente en
 ## 📫 ¡Conectemos!
 
 - ✉️ ipazcristian34@gmail.com   
-- 🌍 Portafolio web (en desarrollo)  
+- 🌍 Portafolio web (en desarrollo)
+- 🔗 [LinkedIn] www.linkedin.com/in/cristian-ipaz-830984216
 - 💼 Abierto a colaboraciones y prácticas sin costo (quiero aprender en proyectos reales)
