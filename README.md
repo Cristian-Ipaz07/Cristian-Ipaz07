@@ -1,45 +1,31 @@
-# 👋 ¡Hola! Soy Cristian Ipaz
+# 🚀 Full Stack Developer | Systems Engineering Student (6th Sem)
 
-Soy técnico en sistemas y estudiante de Ingeniería en Sistemas, actualmente en 4° semestre. Me apasiona la tecnología, el aprendizaje constante y ayudar a otros con soluciones digitales.
+¡Hola! Soy **Cristian Ipaz**. Me especializo en construir soluciones digitales escalables que resuelven problemas reales de negocio. Desde la automatización de marketplaces hasta ecosistemas de gestión para propiedad horizontal, mi enfoque es la **eficiencia operativa y el alto impacto visual**.
 
-💻 En mi tiempo libre desarrollo pequeños proyectos en Python, automatizo tareas, analizo datos con pandas y creo visualizaciones con Power BI.  
-🔍 Actualmente estoy buscando colaborar en proyectos reales (remotos o de startups), ¡aún sin remuneración!, solo para aprender y ganar experiencia.  
-
----
-
-## 🚀 Tecnologías y herramientas que uso
-
-- 🐍 Python, FastAPI, Flask
-- 🧠 SQL, MySQL, SQLite
-- 📊 Power BI, pandas, matplotlib
-- 🧰 Git, GitHub, VSCode, pip, entornos virtuales
-- 🌐 HTML + CSS (básico)
+### 🛠️ Stack Tecnológico
+* **Frontend:** React 18, TypeScript, Vite, Tailwind CSS, shadcn/ui.
+* **Backend & DB:** FastAPI (Python), Supabase, PostgreSQL, SQLAlchemy.
+* **Automation & Ops:** Playwright, Docker, Vercel, Gitflow, PNPM Monorepos.
 
 ---
 
-## 📂 Proyectos en desarrollo
+### 📂 Proyectos Destacados (Real-World Solutions)
 
-| Proyecto                  | Descripción                                                                 |
-|--------------------------|-----------------------------------------------------------------------------|
-| Sistema de Inventario    | CRUD en consola que gestiona productos, stock y reportes.                   |
-| API de Clientes           | API REST con FastAPI para registrar, editar y buscar clientes.             |
-| Análisis de Ventas CSV   | Script que analiza datos de ventas con pandas y visualiza resultados.      |
-| Automatización de Tareas | Scripts para renombrar archivos, mover carpetas o limpiar duplicados.      |
-| Dashboard con Power BI   | Visualización interactiva de datos de ventas y productos.                  |
-
----
-
-## 🌱 Actualmente aprendiendo
-
-- Inglés técnico para desarrollo remoto  
-- Desarrollo web backend  
-- Buenas prácticas con Git y trabajo colaborativo  
+| Proyecto | Tecnologías | Impacto / Solución |
+| :--- | :--- | :--- |
+| **[Web Asambleas](https://github.com/Cristian-Ipaz07/WEB-ASAMBLEAS)** | React, Monorepo, Vercel | Ecosistema que gestiona +10 edificios en producción con quórum en tiempo real. |
+| **[JSC Asesores](https://jscasesores.com/)** | TypeScript, React, Framer | Plataforma corporativa legal con optimización de conversión y UX de alta fidelidad. |
+| **[MarketMaster](https://marketmaster-bot.vercel.app/)** | Supabase, TS, Automation | Engine de automatización para Marketplace, reduciendo 80% el tiempo de carga de stock. |
+| **[Estilo Nórdico ERP](https://github.com/Cristian-Ipaz07/estilo-nordico-app)** | FastAPI, Docker, React | Sistema POS integral con gestión de inventario por variantes (REF) y flujo de caja. |
 
 ---
 
-## 📫 ¡Conectemos!
+### 📈 Mi Enfoque
+* **Vibe Coding:** Desarrollo ágil centrado en resultados, usando IA para acelerar el despliegue de MVPs.
+* **Arquitectura Escalable:** Experiencia en despliegues multi-proyecto y contenedores.
+* **Mentalidad de Dueño:** Como emprendedor, entiendo que el código debe generar dinero o ahorrar tiempo.
 
-- ✉️ ipazcristian34@gmail.com   
-- 🌍 Portafolio web (en desarrollo)
-- 🔗 [LinkedIn] www.linkedin.com/in/cristian-ipaz-830984216
-- 💼 Abierto a colaboraciones y prácticas sin costo (quiero aprender en proyectos reales)
+### 📫 ¡Conectemos!
+* **LinkedIn:** [linkedin.com/in/cristian-ipaz-830984216](https://www.linkedin.com/in/cristian-ipaz-830984216)
+* **Email:** ipazcristian34@gmail.com
+* **Ubicación:** Pasto, Colombia (Disponible para trabajo Remoto 🌍)
